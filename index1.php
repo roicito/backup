@@ -37,7 +37,7 @@ include 'crear.php';
                             }
                         }
 
-                        echo listar_archivos('c:\xampp\htdocs\MDP\modulos\seguridad\backup');
+                        echo listar_archivos('c:\xampp\htdocs\MDP\backup');
                         ?>
                     </div>  
                 </div>
